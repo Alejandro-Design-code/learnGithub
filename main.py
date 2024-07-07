@@ -1,5 +1,9 @@
 
 
+def asus_tuf():
+    print("Esta seccao de codigo e feita no asus tuf")
+
+
 def macbook():
     print("Esta seccao de codigo e feita no macbook")
 
